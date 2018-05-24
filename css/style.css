@@ -71,7 +71,7 @@ h3{
 }
 .author{
   font-style:italic;
-  margin-top: 20px;
+  margin-top: 10px;
   font-size:0.75em;
 }
 
@@ -86,6 +86,6 @@ p{
 }
 
 a:link { color:#0070BB; } /* unvisited */
-a:hover { color:#0070BC; } /* mouse over */
+a:hover { color:#FAFAFA; } /* mouse over */
 a:active { color:#0070BD; } /* selected */
 a{text-decoration: none;}
